@@ -62,7 +62,7 @@ class _Mysecondscreen extends State<Mysecondscreen> {
             groupValue: great,
             onChanged: (val) {
               setState(() {
-                work = val.toString();
+                great = val.toString();
               });
             },
           ),
@@ -82,7 +82,7 @@ class _Mysecondscreen extends State<Mysecondscreen> {
             groupValue: great,
             onChanged: (val) {
               setState(() {
-                share = val.toString();
+                great = val.toString();
               });
             },
           ),
