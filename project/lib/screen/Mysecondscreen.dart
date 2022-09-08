@@ -30,10 +30,10 @@ class _Mysecondscreen extends State<Mysecondscreen> {
             child: Text(
               "Thank you for answering the questions ",
               style: TextStyle(
-                fontSize: 30,
-                color: Colors.brown,
-                fontWeight: FontWeight.bold,
-              ),
+                  fontSize: 30,
+                  color: Colors.brown,
+                  fontWeight: FontWeight.bold,
+                  fontFamily: "AbrilFatface-Regular"),
             ),
           ),
           SizedBox(

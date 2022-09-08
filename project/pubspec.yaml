@@ -107,10 +107,15 @@ flutter:
            
     - family: BebasNeue
       fonts:
-        - asset: assest/BebasNeue-Regular.ttf'
+        - asset: assest/BebasNeue-Regular.ttf
 
     - family: Lora
       fonts:
         - asset: assest/Lora-Italic-VariableFont_wght.ttf
+
+    - family: AbrilFatface-Regular
+      fonts:
+        - asset: assest/AbrilFatface-Regular.ttf
+       
 
    

@@ -227,8 +227,8 @@ class _HomeState extends State<Home> {
                             fontWeight: FontWeight.bold,
                             fontFamily: "Anton")),
                     secondary: Icon(
-                      Icons.close,
-                      color: Colors.red,
+                      Icons.check_outlined,
+                      color: Colors.green,
                     ),
                     value: "work",
                     groupValue: work,
